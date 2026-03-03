@@ -1,0 +1,5 @@
+[
+  "tests/test_tiny_cron_parse.py::TestParse::test_basic",
+  "tests/test_tiny_cron_parse.py::TestParse::test_empty",
+  "tests/test_tiny_cron_parse.py::TestParse::test_type_error"
+]
